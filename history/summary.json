@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 88,
-    "timeWeek": 133,
+    "timeDay": 100,
+    "timeWeek": 134,
     "timeMonth": 114,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -27,18 +27,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 83,
-    "timeWeek": 251,
-    "timeMonth": 273,
+    "timeDay": 140,
+    "timeWeek": 231,
+    "timeMonth": 269,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2024-10-03": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 130,
-    "timeWeek": 92,
-    "timeMonth": 102,
+    "timeDay": 79,
+    "timeWeek": 82,
+    "timeMonth": 101,
     "timeYear": 86,
     "dailyMinutesDown": {}
   }
