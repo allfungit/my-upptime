@@ -27,16 +27,18 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 81,
-    "timeWeek": 208,
-    "timeMonth": 219,
+    "time": 213,
+    "timeDay": 186,
+    "timeWeek": 215,
+    "timeMonth": 220,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-03": 14
+    }
   },
   {
     "name": "Test Broken Site",
